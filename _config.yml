@@ -5,10 +5,10 @@ favicon: images/favicon.ico
 # Personal info
 name: Sandip Chajjed
 title: Data Scientist and Analytic Lead
-email: sandip.chajjed@carleton
+email: sandip.chajjed@carleton.ca
 website: sandipchajjed.github.io
 
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: @SChajjed
