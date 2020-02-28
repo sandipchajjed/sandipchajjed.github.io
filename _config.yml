@@ -3,30 +3,34 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sandip Chajjed
+title: Data Scientist and Analytic Lead
+email: sandip.chajjed@carleton
+website: sandipchajjed.github.io
+
+darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: @SChajjed
+github_username:  sandipchajjed
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: sandipchajjed
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/ChajjedS_ss.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi My Name is Sandip Chajjed I like simplicity, and I always strive for excellence. I am a result oriented professional with an aptitude for problem-solving and a passion for data science. I am fascinated with the way data can be transformed into relevant information.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+- 4+ years of quantitative experience in research, statistical/mathematical modeling, from both academia and industry.
+- Proficient with programming skills such as R, Python, MATLAB, Fortran, C++. An avid learner, learning the new technology every day like SQL, SAS, Tableau.
+- Extensive experience and knowledge of statistical/predictive models, numerical algorithms, optimization methods, and data visualizations.
 
 # Projects Section
 # projects_title: Projects
